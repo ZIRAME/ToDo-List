@@ -1,0 +1,219 @@
+body {
+    background-color: coral;
+}
+
+.container {
+    background-color: white;
+    width: 1400px;
+    height: 600px;
+    box-shadow: 1px 1px 10px;
+    position: relative;
+    top: 40px;
+    left: 4%;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.list {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    left: 14%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+    transition: 0.5s;
+}
+
+.list:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list1 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: 50px;
+    left: 14%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+    transition: 0.5s;
+}
+
+.list1:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list1 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list2 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -400px;
+    left: 32%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+    transition: 0.5s;
+}
+
+.list2:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list2 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list3 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -350px;
+    left: 32%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+	transition: 0.5s;
+}
+
+.list3:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list3 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list4 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -800px;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+	transition: 0.5s;
+}
+
+.list4:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list4 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list5 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -750px;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+	transition: 0.5s;
+}
+
+.list5:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list5 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list6 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -1200px;
+    left: 68%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+	transition: 0.5s;
+}
+
+.list6:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list6 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.list7 {
+    width: 220px;
+    height: 180px;
+    background-color: rgb(24, 178, 216);
+    position: relative;
+    top: -1150px;
+    left: 68%;
+    border-radius: 5px;
+    box-shadow: 2px 1px 15px purple;
+	transition: 0.5s;
+}
+
+.list7:hover {
+    transition: 0.5s;
+    box-shadow: 2px 1px 15px rgb(146, 3, 255);
+}
+
+.list7 ul {
+    position: relative;
+    top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
